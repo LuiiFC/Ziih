@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisSilva
 - 👀 I’m interested in games , webs and mobile projects;
-- 🌱 I’m currently learning JAVA, HTML , PYTHON;
+- 🌱 I’m currently learning HTML , PYTHON, CSS;
 - 💞️ I’m a student in Science Computer from UNINASSAU ;
 - I’m Graduate from UNICAP in Game Developer;
 - I already now C++, C#, JavaScript, Python, React;
