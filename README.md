@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisSilva
 - 👀 I’m interested in games , webs and mobile projects;
 - 🌱 I’m currently learning HTML , PYTHON, CSS, C++, C#;
-- 💞️ I’m a student in Science Computer from UNINASSAU ;
+- 💞️ I’m a student in Science Computer from Senac ;
 - I’m Graduate from UNICAP in Game Developer;
 - I already now C++, C#, JavaScript, Python, React;
 - 📫 How to reach me luiscardoso2311@gmail.com
